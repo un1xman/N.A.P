@@ -1,5 +1,5 @@
 # N.A.P
-##### Nginx+PHP+AlpineLinux via Do
+##### Nginx+PHP+AlpineLinux via Docker Compose
 #
 #
 
